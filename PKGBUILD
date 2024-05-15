@@ -2,7 +2,7 @@
 
 pkgname=wlsunset
 pkgver=0.3.0
-pkgrel=1
+pkgrel=2
 pkgdesc='Day/night gamma adjustments for Wayland compositors'
 arch=('x86_64' 'aarch64')
 url='https://sr.ht/~kennylevinsen/wlsunset'
